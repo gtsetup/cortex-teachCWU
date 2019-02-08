@@ -43,7 +43,6 @@ void autonomous() {
 
      case 2:
       compAutoRedRight();
-      // Rolled back
      break;
 
      case 3:
